@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "durationTitle": "08:00-08:45",
+    "weekday": 3,
+    "course": "数据结构与算法",
+    "teacher": "王老师"
+  },
+  {
+    "id": 2,
+    "durationTitle": "10:10-10:55",
+    "weekday": 1,
+    "course": "计算机网络",
+    "teacher": "刘老师"
+  },
+  {
+    "id": 3,
+    "durationTitle": "14:30-15:15",
+    "weekday": 5,
+    "course": "计算机组成原理",
+    "teacher": "江老师"
+  }
+]

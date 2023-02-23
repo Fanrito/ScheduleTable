@@ -1,0 +1,21 @@
+.schedule-table {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    border-color: #ededed;
+
+    th,
+    td {
+      text-align: center;
+    }
+
+    th {
+      height: 40px;
+    }
+
+    td {
+      height: 60px;
+    }
+  }
+}
